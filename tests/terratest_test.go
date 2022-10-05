@@ -55,7 +55,7 @@ func TestFull(t *testing.T) {
 	"Enabled": true,
 	"NtpServers": [
 		"time-a-g.nist.gov",
-		"time-a-g.nist.gov"
+		"time-b-g.nist.gov"
 	],
 	"Timezone": "Etc/GMT"
 }
